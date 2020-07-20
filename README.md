@@ -36,6 +36,11 @@ The Bot has the basic command _ping. Try it out! \
 2. package.json - The main info about the bot and the modules you need to install.
 3. config.json - Contains information about the prefix, token and ownerID for the bot.
 
+### Todo
+
+1. Add Pictures to Readme for a visual representation.
+2. Add information on how to add more commands and events to the bots.
+3. Add information on how to link the bot to a database.
 
 References
  \[1\] [Discord.js.org](https://discord.js.org/)
