@@ -8,9 +8,3 @@ module.exports.help = {
     description: "Just a Ping",
     private: false
 }
-
-module.exports.requirements = {
-    userPerms: [],
-    clientPerms: [],
-    ownerOnly: false
-}
