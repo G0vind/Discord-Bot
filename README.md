@@ -23,12 +23,12 @@ Discord bot built from [discord.js](https://discord.js.org/#/) and JavaScript
 12. Check the permission you require and enter the earlier recorded *Client ID* in the Client ID field.
 13. The Below link is the invite link needed to invite the Bot to your server.
 
-    You have now finished setting up a Basic Discord bot. \
-    The Bot has the basic command _ping. Try it out! \
+You have now finished setting up a Basic Discord bot. \
+The Bot has the basic command _ping. Try it out! \
       \
-    **All Commands are saved in commands directory.**  \
+**All Commands are saved in commands directory.**  \
       \
-    **All Events are saved in events directory.**    
+**All Events are saved in events directory.**    
 
 ### Files
 
