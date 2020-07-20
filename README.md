@@ -25,8 +25,10 @@ Discord bot built from [discord.js](https://discord.js.org/#/) and JavaScript
 
     You have now finished setting up a Basic Discord bot. \
     The Bot has the basic command _ping. Try it out! \
-    **All Commands are saved in commands directory**  \
-    **All Events are saved in events directory**  \  
+      \
+    **All Commands are saved in commands directory.**  \
+      \
+    **All Events are saved in events directory.**    
 
 ### Files
 
